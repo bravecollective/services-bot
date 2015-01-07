@@ -16,7 +16,7 @@ Response:
 
 ## Install
 
-    # do stuff here...
+    pip install -r requirements.txt
 
 ## Contributions
 
